@@ -1,0 +1,5 @@
+223.2.10.172
+结合历年地表沉降数据，采用分位数随机森林及贝叶斯参数优化方法，建立地面沉降概率预测模型。
+C:\Users\backup-422\Downloads\Intel\parallel_studio_xe_2018_update3_cluster_edition_setup
+fortran安装目录：
+C:\Program Files (x86)\IntelSWTools
